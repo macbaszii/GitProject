@@ -22,7 +22,7 @@
 }
 
 - (void)someMethod {
-
+    // Implement Some Method
 }
 
 - (void)didReceiveMemoryWarning
